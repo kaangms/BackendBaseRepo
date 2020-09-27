@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccess",
+    "\\DataAccess\\Abstract",
+    "\\DataAccess\\Concrete",
+    "\\DataAccess\\Concrete\\EntityFramework",
+    "\\DataAccess\\Concrete\\EntityFramework\\Contexts",
+    "\\Entities",
+    "\\Entities\\Concrete",
+    "\\Entities\\Dtos",
+    "\\WebApi"
+  ],
+  "SelectedNode": "\\BackendSeries-1.sln",
+  "PreviewInSolutionExplorer": false
+}
